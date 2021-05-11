@@ -1,0 +1,12 @@
+name: mini
+label: Minimal
+description: A minimal app with a subject field
+notifications: none
+attributes:
+  - name: title
+    type: string
+    label: Subject
+    mandatory: true
+  - name: conclusion
+    type: text
+    label: Conclusion
