@@ -1,6 +1,6 @@
 | App | Description |
 | --- | ----------- |
-| simple.yaml | A simple app \
+| simple.yaml | A simple app |
 | approval.yaml | Request for approval |
 | bug-reporting.yaml | Bug reporting and tracking |
 | contactform.yaml | Handle external contact requests |
