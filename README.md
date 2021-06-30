@@ -1,5 +1,5 @@
 | App | Name | Description |
-| --- | ----------- |
+| --- | ---- | ----------- |
 | simple.yaml | simple | A simple app |
 | approval.yaml | approval | Request for approval |
 | bug-reporting.yaml | bug-report | Bug reporting and tracking |
