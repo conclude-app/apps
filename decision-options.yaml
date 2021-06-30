@@ -1,5 +1,5 @@
 name: decision-options
-label: Decision
+label: Decision options
 description: Make a decision from a list of options
 enable_deadline: true
 attributes:
