@@ -1,5 +1,5 @@
 name: simple
-label: Simple
+label: Activity
 description: A simple app
 attributes:
   - name: title
