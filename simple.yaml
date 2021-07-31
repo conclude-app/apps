@@ -1,5 +1,5 @@
 name: simple
-label: Activity
+label: Simple
 description: A simple app
 attributes:
   - name: title
@@ -15,3 +15,5 @@ attributes:
     type: text
     label: Conclusion
     placeholder: What is the conclusion?
+Subject: activity
+launch_button: Launch
