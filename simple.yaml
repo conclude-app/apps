@@ -15,5 +15,5 @@ attributes:
     type: text
     label: Conclusion
     placeholder: What is the conclusion?
-Subject: activity
+subject: activity
 launch_button: Launch

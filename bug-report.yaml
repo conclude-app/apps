@@ -1,6 +1,6 @@
 name: bug-report
 label: Bug report
-description: Bug tracking
+description: Report and track bugs
 enable_severity: true
 attributes:
   - name: title
@@ -55,4 +55,4 @@ attributes:
     placeholder: |-
       What is the expected result?
       What is the actual result?
-create_caption: New Bug Report
+subject: bug

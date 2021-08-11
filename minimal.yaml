@@ -1,4 +1,4 @@
-name: mini
+name: minimal
 label: Minimal
 description: A minimal app with a subject field
 notifications: none
@@ -10,5 +10,5 @@ attributes:
   - name: conclusion
     type: text
     label: Conclusion
-Subject: activity
+subject: activity
 launch_button: Launch
