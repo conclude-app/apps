@@ -12,7 +12,7 @@ To install an app in your Slack team.
 - In Slack, type the command `/c app install`, or install from Conclude Home > Apps.
 - Alternatively you can install from the Apps page of the Conclude web app: https://conclude.app/apps
 
-
+You can also install apps directly from other public GitHub repositories.
 
 | App | Name | Description |
 | --- | ---- | ----------- |
