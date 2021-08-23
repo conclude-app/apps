@@ -1,11 +1,14 @@
 # Conclude Apps
 
-This directory contains the built-in apps provided by Conclude.
+This directory contains the app blueprints provided by Conclude. These apps can be used as-is, or customized
+for your team.
 
 To install an app in your Slack team.
 - Add Conclude to your team by going to https://conclude.app and click [Sign In](https://conclude.app/signin).
 - In Slack, type the command `/c app install`, or install from Conclude Home > Apps.
 - Alternatively you can install from the Apps page https://conclude.app/apps
+
+
 
 | App | Name | Description |
 | --- | ---- | ----------- |
