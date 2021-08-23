@@ -4,7 +4,8 @@ This directory contains the Slack app blueprints provided by Conclude. These app
 for your team.
 
 Prerequisites:
-- You'll need to make sure your team has installed Conclude. Try the `/c help` command to verify that Conclude has been installed.
+- You'll need to make sure that Conclude has been installed in your team's Slack workspace.
+- Try the Slack command `/c help`, or locate Conclude under Apps in the sidebar to verify that Conclude has been installed.
 - To install Conclude, go to https://conclude.app and click [Sign In](https://conclude.app/signin).
 
 To install an app in your Slack team.
