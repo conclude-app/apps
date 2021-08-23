@@ -38,6 +38,7 @@ attributes:
     type: text
     label: Internal notes
     visible: edit
+subject: incident
 create_caption: Report Incident
 edit_caption: Update Incident
 conclude_caption: Close Incident
