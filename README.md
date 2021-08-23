@@ -1,6 +1,6 @@
 # Conclude Apps
 
-This directory contains the Slack app blueprints provided by Conclude. These apps can be used as-is, or customized
+This directory contains the Slack app blueprints provided by Conclude. These apps can be used out of the box, or customized
 for your team.
 
 Prerequisites:
