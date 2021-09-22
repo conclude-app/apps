@@ -56,3 +56,5 @@ attributes:
       What is the expected result?
       What is the actual result?
 subject: bug report
+launch_button: Report Bug
+create_caption: Report Bug

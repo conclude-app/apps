@@ -1,5 +1,5 @@
 name: decision-options
-label: Decision options
+label: Decision (from options)
 description: Make a decision from a list of options
 enable_deadline: true
 attributes:
@@ -34,4 +34,3 @@ attributes:
     label: See decision
     visible: never
 subject: proposal
-create_caption: New Proposal
