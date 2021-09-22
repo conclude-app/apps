@@ -41,5 +41,3 @@ attributes:
 subject: incident ticket
 launch_button: Report Incident
 create_caption: Report Incident
-edit_caption: Update Incident
-conclude_caption: Close Incident

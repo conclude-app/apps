@@ -32,6 +32,3 @@ attributes:
       - name: network
         label: Network problem
 subject: ticket
-create_caption: Ask for Help
-edit_caption: Update Ticket
-conclude_caption: Close Ticket
