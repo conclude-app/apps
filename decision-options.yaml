@@ -14,7 +14,7 @@ attributes:
     placeholder: More details here
   - name: decision
     type: select
-    label: Decision
+    label: Decision d
     hint: Setting this will close the proposal
     visible: edit,conclude
     important: true
@@ -33,5 +33,5 @@ attributes:
     type: text
     label: See decision
     visible: never
-subject: decision
+subject: proposal
 create_caption: New Proposal

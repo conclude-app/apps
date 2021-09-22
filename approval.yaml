@@ -33,4 +33,5 @@ attributes:
     type: text
     label: See decision
     visible: never
+subject: request
 create_caption: New Request

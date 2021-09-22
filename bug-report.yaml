@@ -55,4 +55,4 @@ attributes:
     placeholder: |-
       What is the expected result?
       What is the actual result?
-subject: bug
+subject: bug report
