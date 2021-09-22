@@ -1,5 +1,5 @@
 name: decision-options
-label: Decision (from options)
+label: Decision II
 description: Make a decision from a list of options
 enable_deadline: true
 attributes:
@@ -14,7 +14,7 @@ attributes:
     placeholder: More details here
   - name: decision
     type: select
-    label: Decision d
+    label: Decision
     hint: Setting this will close the proposal
     visible: edit,conclude
     important: true
@@ -25,8 +25,6 @@ attributes:
         label: ':thumbsdown: No'
       - name: delay
         label: ':hourglass_flowing_sand: Delay until later'
-      - name: maybe
-        label: ':question: Undecided - revisit later'
     trigger:
       conclude: true
   - name: conclusion
