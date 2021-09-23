@@ -19,12 +19,12 @@ attributes:
     visible: edit,conclude
     important: true
     options:
-      - name: 'yes'
-        label: ':thumbsup: Yes'
-      - name: 'no'
-        label: ':thumbsdown: No'
+      - name: "yes"
+        label: ":thumbsup: Yes"
+      - name: "no"
+        label: ":thumbsdown: No"
       - name: delay
-        label: ':hourglass_flowing_sand: Delay until later'
+        label: ":hourglass_flowing_sand: Delay until later"
     trigger:
       conclude: true
   - name: conclusion
