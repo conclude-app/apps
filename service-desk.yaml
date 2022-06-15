@@ -7,7 +7,7 @@ attributes:
   - name: title
     type: string
     label: Subject
-    placeholder: What is you inquiry about?
+    placeholder: What is the inquiry about?
     mandatory: true
   - name: body
     type: text
