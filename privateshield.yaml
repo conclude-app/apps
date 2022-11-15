@@ -1,5 +1,6 @@
 name: privateshield
 label: Privateshield alert
+icon: generic
 description: Handle anonymous alerts over email
 enable_severity: true
 attributes:

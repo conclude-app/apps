@@ -1,5 +1,6 @@
 name: incident
 label: Incident
+icon: incident
 description: Incident management
 enable_severity: true
 attributes:

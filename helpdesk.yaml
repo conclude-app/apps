@@ -1,5 +1,6 @@
 name: helpdesk
 label: Helpdesk
+icon: helpdesk
 description: Helpdesk ticketing system
 members: ${__channel} ${initiator}
 alert: ${__channel} ${initiator}

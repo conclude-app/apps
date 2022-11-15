@@ -1,5 +1,6 @@
 name: bug-report
 label: Bug report
+icon: bug
 description: Report and track bugs
 enable_severity: true
 attributes:

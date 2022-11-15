@@ -1,5 +1,6 @@
 name: decision
 label: Decision
+icon: decision
 description: Make a decision
 enable_deadline: true
 attributes:

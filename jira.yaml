@@ -1,5 +1,6 @@
 name: jira-issue
 label: Jira Issue
+icon: bug
 channel_name: _${__channel}_${jira_key}
 enable_severity: true
 attributes:

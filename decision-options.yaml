@@ -1,5 +1,6 @@
 name: decision-options
 label: Decision II
+icon: decision
 description: Make a decision from a list of options
 enable_deadline: true
 attributes:

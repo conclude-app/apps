@@ -1,5 +1,6 @@
 name: contact-form
 label: Contact form
+icon: generic
 description: Handle external contact requests
 owner: ${initiator}
 members: ${__channel}

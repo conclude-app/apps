@@ -1,5 +1,6 @@
 name: generic
 label: Generic app
+icon: generic
 description: A generic app template
 attributes:
   - name: title

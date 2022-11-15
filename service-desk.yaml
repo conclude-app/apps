@@ -1,5 +1,6 @@
 name: service-desk
 label: Service desk
+icon: support
 description: Service desk ticketing system
 members: ${__channel} ${initiator}
 alert: ${__channel} ${initiator}

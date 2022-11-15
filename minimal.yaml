@@ -1,5 +1,6 @@
 name: minimal
 label: Minimal app
+icon: minimal
 description: A minimal app template
 notifications: none
 attributes:

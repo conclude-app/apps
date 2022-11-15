@@ -1,5 +1,6 @@
 name: support
 label: Support
+icon: support
 description: Support ticketing system
 members: ${__channel} ${initiator}
 alert: ${__channel} ${initiator}
