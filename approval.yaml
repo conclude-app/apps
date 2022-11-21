@@ -17,7 +17,7 @@ attributes:
     label: Description
     placeholder: More details here
   - protected: ${superusers}
-    name: decision
+    name: status
     type: select
     label: Decision
     hint: Setting this will close the approval
@@ -26,10 +26,9 @@ attributes:
     options:
       - name: approved
         label: Approved
+        state: closed
       - name: rejected
         label: Declined
-    trigger:
-      conclude: true
   - name: conclusion
     type: text
     label: See decision

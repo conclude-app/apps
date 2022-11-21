@@ -1,51 +1,52 @@
 name: bug
 label: Bug tracking
-icon: bug
 description: Report and track bugs
-enable_severity: true
+icon: bug
 attributes:
   - name: title
     type: string
     label: Bug
-    placeholder: Brief summary
+    placeholder: Please enter a headline for the bug
     mandatory: true
   - name: conclusion
     type: text
     label: Resolution
-    default_value: ${bug_status.label}
+    default_value: ${status.label}
     placeholder: What was the resolution?
-  - name: bug_status
+  - name: status
     type: select
     label: Status
-    default_value: new
+    default_value: open
     visible: edit
     options:
-      - name: new
+      - name: open
         label: Not yet confirmed
       - name: incomplete
         label: More information is required
+        state: open
       - name: verified
         label: The bug has been verified
-      - name: invalid
-        label: Not a bug
+        state: open
       - name: in_progress
-        label: The bug is being fixed
-      - name: fixed
-        label: The bug was fixed
-      - name: wont_fix
-        label: The bug will not be fixed
+        label: In progress
+      - name: resolved
+        label: Resolved
+      - name: duplicate
+        label: Duplicate
+      - name: rejected
+        label: Rejected
   - name: severity
     type: select
     label: Priority
     options:
-      - name: low
-        label: ':warning: Low'
-      - name: medium
-        label: ':exclamation: Medium'
-      - name: high
-        label: ':x: High'
       - name: critical
         label: ':fire: Critical'
+      - name: high
+        label: ':x: High'
+      - name: medium
+        label: ':exclamation: Medium'
+      - name: low
+        label: ':warning: Low'
   - name: body
     type: text
     label: Steps to reproduce
@@ -56,6 +57,4 @@ attributes:
     placeholder: |-
       What is the expected result?
       What is the actual result?
-subject: bug report
-launch_button: Report Bug
-create_caption: Report Bug
+subject: bug
