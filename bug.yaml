@@ -29,7 +29,7 @@ attributes:
         state: open
       - name: in_progress
         label: In progress
-      - name: resolved
+      - name: closed
         label: Resolved
       - name: duplicate
         label: Duplicate

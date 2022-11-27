@@ -27,7 +27,7 @@ attributes:
         label: In progress
       - name: on_hold
         label: Snoozed
-      - name: resolved
+      - name: closed
         label: Resolved
       - name: duplicate
         label: Duplicate
