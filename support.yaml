@@ -2,6 +2,7 @@ name: support
 label: Support
 icon: support
 description: Support ticketing system
+owner: ${__blank}
 members: ${__channel} ${initiator}
 alert: ${__channel} ${initiator}
 attributes:

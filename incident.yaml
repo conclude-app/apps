@@ -1,6 +1,7 @@
 name: incident
 label: Incident
 description: Incident management
+owner: ${__blank}
 icon: incident
 attributes:
   - name: title

@@ -1,6 +1,7 @@
 name: bug
 label: Bug report
 description: Report and track bugs
+owner: ${__blank}
 icon: bug
 attributes:
   - name: title
