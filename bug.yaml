@@ -18,7 +18,7 @@ attributes:
     type: select
     label: Status
     default_value: open
-    visible: edit
+    visible: edit,conclude
     options:
       - name: open
         label: Not yet confirmed

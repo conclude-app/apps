@@ -21,6 +21,8 @@ attributes:
   - name: status
     type: select
     label: Status
+    default_value: open
+    visible: edit,conclude
     options:
       - name: open
         label: Open
