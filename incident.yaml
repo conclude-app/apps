@@ -21,7 +21,7 @@ attributes:
   - name: status
     type: select
     label: Status
-    default_value: open
+    defaultValue: open
     visible: edit,conclude
     options:
       - name: open
@@ -39,7 +39,7 @@ attributes:
   - name: severity
     type: select
     label: Severity
-    default_value: none
+    defaultValue: none
     visible: always
     options:
       - name: critical

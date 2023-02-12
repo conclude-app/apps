@@ -2,7 +2,6 @@ name: privateshield
 label: Privateshield alert
 icon: generic
 description: Handle anonymous alerts over email
-enable_severity: true
 attributes:
   - name: title
     type: string
@@ -17,7 +16,7 @@ attributes:
   - name: severity
     type: select
     label: Severity
-    default_value: none
+    defaultValue: none
     visible: always
     options:
       - name: none

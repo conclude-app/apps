@@ -21,7 +21,7 @@ attributes:
   - name: category
     type: select
     label: Category (internal use)
-    default_value: general
+    defaultValue: general
     visible: edit
     options:
       - name: general

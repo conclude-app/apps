@@ -12,12 +12,12 @@ attributes:
   - name: conclusion
     type: text
     label: Resolution
-    default_value: ${status.label}
+    defaultValue: ${status.label}
     placeholder: What was the resolution?
   - name: status
     type: select
     label: Status
-    default_value: open
+    defaultValue: open
     visible: edit,conclude
     options:
       - name: open
