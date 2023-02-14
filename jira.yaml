@@ -21,4 +21,4 @@ attributes:
     label: Resolution
     visible: conclude
 subject: issue
-launch_button: New Issue
+launchButton: New Issue
