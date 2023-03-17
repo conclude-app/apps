@@ -20,11 +20,11 @@ attributes:
     important: true
     options:
       - name: "yes"
-        label: ":thumbsup: Yes"
+        label: "👍 Yes"
       - name: "no"
-        label: ":thumbsdown: No"
+        label: "👎 No"
       - name: delay
-        label: ":hourglass_flowing_sand: Delay until later"
+        label: "⏳ Delay until later"
     trigger:
       conclude: true
   - name: conclusion

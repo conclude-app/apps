@@ -20,17 +20,17 @@ attributes:
     visible: always
     options:
       - name: none
-        label: ":ok_hand: None"
+        label: "👌 None"
       - name: unknown
-        label: ":thinking_face: Unknown"
+        label: "🤔 Unknown"
       - name: low
-        label: ":warning: Low"
+        label: "⚠️ Low"
       - name: medium
-        label: ":exclamation: Medium"
+        label: "❗ Medium"
       - name: high
-        label: :x:️ High
+        label: ❌️ High
       - name: critical
-        label: ":fire: Critical"
+        label: "🔥 Critical"
   - name: notes
     type: text
     label: Internal notes

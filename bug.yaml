@@ -41,13 +41,13 @@ attributes:
     label: Priority
     options:
       - name: critical
-        label: ':fire: Critical'
+        label: "🔥 Critical"
       - name: high
-        label: ':x: High'
+        label: "❌ High"
       - name: medium
-        label: ':exclamation: Medium'
+        label: "❗ Medium"
       - name: low
-        label: ':warning: Low'
+        label: "⚠️ Low"
   - name: body
     type: text
     label: Steps to reproduce
