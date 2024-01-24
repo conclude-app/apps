@@ -16,8 +16,8 @@ attributes:
     type: text
     label: Description
     placeholder: More details here
-  - protected: ${superusers}
-    name: status
+  - name: status
+    editors: ${superusers}
     type: select
     label: Decision
     hint: Setting this will close the approval
