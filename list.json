@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Incident Management",
+    "description": "Resolve technical and non-technical incidents faster, directly from Slack",
+    "file": "incident.yaml"
+  },
+  {
+    "name": "Bug Tracking",
+    "description": "Easily report and track bugs from Slack. Boost engagement and response times",
+    "file": "bug.yaml"
+  },
+  {
+    "name": "Support",
+    "description": "Bring your support desk into Slack. Assign, prioritize and conclude conversations quicker",
+    "file": "support.yaml"
+  },
+  {
+    "name": "Jira Integration",
+    "description": "Connect with your Jira project and bring it into Slack",
+    "file": "jira.yaml",
+    "exclude": "teams"
+  },
+  {
+    "name": "Approval",
+    "description": "Great for any approvals done in Slack, with a complete audit trail",
+    "file": "approval.yaml"
+  },
+  {
+    "name": "Decision",
+    "description": "This workflow is for decision-making in Slack",
+    "file": "decision.yaml"
+  },
+  {
+    "name": "Helpdesk",
+    "description": "Similar to the support app, but with an additional category field",
+    "file": "helpdesk.yaml"
+  },
+  {
+    "name": "Generic",
+    "description": "You can modify this simple template for your own workflows",
+    "file": "generic.yaml"
+  },
+  {
+    "name": "Minimal",
+    "description": "It does not get any smaller than this bare bones template",
+    "file": "minimal.yaml"
+  }
+]
