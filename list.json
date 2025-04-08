@@ -1,34 +1,24 @@
 [
   {
+    "name": "Support",
+    "description": "Bring your support desk into Slack and Microsoft Teams",
+    "file": "support.yaml"
+  },
+  {
     "name": "Incident Management",
-    "description": "Resolve technical and non-technical incidents faster, directly from Slack",
+    "description": "Resolve all types of incidents and issues from Slack or Teams",
     "file": "incident.yaml"
   },
   {
     "name": "Bug Tracking",
-    "description": "Easily report and track bugs from Slack. Boost engagement and response times",
+    "description": "Easily report and track bugs from Slack and Microsoft Teams",
     "file": "bug.yaml"
   },
   {
-    "name": "Support",
-    "description": "Bring your support desk into Slack. Assign, prioritize and conclude conversations quicker",
-    "file": "support.yaml"
-  },
-  {
-    "name": "Jira Integration",
+    "name": "Jira Integration (Slack)",
     "description": "Connect with your Jira project and bring it into Slack",
     "file": "jira.yaml",
     "exclude": "teams"
-  },
-  {
-    "name": "Approval",
-    "description": "Great for any approvals done in Slack, with a complete audit trail",
-    "file": "approval.yaml"
-  },
-  {
-    "name": "Decision",
-    "description": "This workflow is for decision-making in Slack",
-    "file": "decision.yaml"
   },
   {
     "name": "Helpdesk",
@@ -36,13 +26,23 @@
     "file": "helpdesk.yaml"
   },
   {
-    "name": "Generic",
-    "description": "You can modify this simple template for your own workflows",
+    "name": "Generic (customizable)",
+    "description": "Modify this simple template to suit your workflow",
     "file": "generic.yaml"
   },
   {
+    "name": "Approval",
+    "description": "Get approvals done faster (e.g. expenses), with a complete audit trail",
+    "file": "approval.yaml"
+  },
+  {
+    "name": "Decision",
+    "description": "Make decisions faster with this app template",
+    "file": "decision.yaml"
+  },
+  {
     "name": "Minimal",
-    "description": "It does not get any smaller than this bare bones template",
+    "description": "It doesn’t get much simpler than this app template",
     "file": "minimal.yaml"
   }
 ]
